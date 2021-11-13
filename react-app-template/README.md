@@ -1,0 +1,1 @@
+Template for a react-app including react-router-dom and configured with Tailwindcss
