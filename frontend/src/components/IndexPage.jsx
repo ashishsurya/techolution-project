@@ -8,6 +8,7 @@ import { v4 as uuidv4 } from 'uuid';
 import InputColor from 'react-input-color';
 import { categoriesState } from '../atoms/categoriesState';
 import CategoriesTable from './CategoriesTable';
+import { useRo } from "react-router-dom";
 
 const IndexPage = ({}) => {
   // all state variables
@@ -20,6 +21,8 @@ const IndexPage = ({}) => {
   const [categoryName, setCategoryName] = useState('');
   const [color, setColor] = React.useState({});
   const [planogramName, setPlanogramName] = useState('');
+
+  
 
   useEffect(() => {
     setGrid(returnGrid(dimensions.rows, dimensions.columns));

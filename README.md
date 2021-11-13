@@ -1,10 +1,13 @@
 # Project for Techolution Internship Program
 
+
+## UI Screenshots are here[]
+
 Steps to install the project.
 
 ### Step-1
 ```
-git clone <repo-url>
+git clone https://github.com/ashishsurya126/techolution-project.git
 ```
 
 ### Step-2
@@ -31,3 +34,6 @@ python app.py
 ```
 
 Now both the front-end and back-end are up and running.
+
+
+
