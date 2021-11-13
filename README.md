@@ -1,9 +1,13 @@
 # Project for Techolution Internship Program
 
 
-## UI Screenshots are here[]
+# UI Screenshots are [here](https://github.com/ashishsurya126/techolution-project/tree/master/images)
 
-Steps to install the project.
+  Step-1 refers to 1.png and so on
+
+
+
+# Steps to install the project.
 
 ### Step-1
 ```
